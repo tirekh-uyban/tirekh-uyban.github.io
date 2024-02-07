@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии на сайте Тирэх Уйбаан	</title>
+	<atom:link href="http://localhost/tirekh-uyban/index.php/comments/feed/?simply_static_page=1313" rel="self" type="application/rss+xml" />
+	<link>https://tirekh-uyban.ru</link>
+	<description>Монастырев Иван Иванович - Тирэх Уйбаан, народный мастер по резьбе по дереву, член творческого Союза художников России, целитель</description>
+	<lastBuildDate>Sat, 26 Oct 2019 05:37:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>
+		Комментарий к записи Айыллыбыт аналым (khanalas)		</title>
+		<link>https://tirekh-uyban.ru/index.php/2019/10/26/ajyllybyt-analym/#comment-2</link>
+
+		<dc:creator><![CDATA[khanalas]]></dc:creator>
+		<pubDate>Sat, 26 Oct 2019 05:37:00 +0000</pubDate>
+		<guid isPermaLink="false">https://tirekh-uyban.ru/?p=904#comment-2</guid>
+
+					<description><![CDATA[Уйбаан Уйбаанабыс утуе санаагар, кэскиллээх дьыалагар, амарах дууьагар, уйэлээги уксэтэргэр, кэрэни кэрэьэлииргэр, дьоьун олоххо угуйаргар, Айыы сиэригэр уерэтэргэр, сугуруйэн туран наьаа ытыктаан туран МАХТАНАБЫН<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2757.png" alt="❗" class="wp-smiley" style="height: 1em; max-height: 1em;" />Чэгиэн чэбдик доруобай буол<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2757.png" alt="❗" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" />]]></description>
+			<content:encoded><![CDATA[<p>Уйбаан Уйбаанабыс утуе санаагар, кэскиллээх дьыалагар, амарах дууьагар, уйэлээги уксэтэргэр, кэрэни кэрэьэлииргэр, дьоьун олоххо угуйаргар, Айыы сиэригэр уерэтэргэр, сугуруйэн туран наьаа ытыктаан туран МАХТАНАБЫН❗Чэгиэн чэбдик доруобай буол❗🙏🙏🙏</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
